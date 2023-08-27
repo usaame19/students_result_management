@@ -11,7 +11,7 @@ This is a simple Student Results Management System built using React and Tailwin
 
 ## Demo
 
-Check out the live demo of the application: [Live Demo](https://your-vercel-app-name.vercel.app)
+Check out the live demo of the application: [Live Demo](https://students-result-management.vercel.app/)
 
 ## Prerequisites
 
